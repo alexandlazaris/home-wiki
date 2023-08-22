@@ -8,21 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My home wiki',
   tagline: 'This is very handy',
-  favicon: 'img/favicon.ico',
-
-  // Set the production url of your site here
-  url: 'https://alexandlazaris.github.io',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'alexandlazaris', // Usually your GitHub org/user name.
-  projectName: 'home-wiki', // Usually your repo name.
-  trailingSlash: false,
+  url: 'https://github.com',
+  baseUrl: '/home-wiki/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  favicon: 'img/favicon.ico',
+  organizationName: 'alexandlazaris', // Usually your GitHub org/user name.
+  projectName: 'home-wiki', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
