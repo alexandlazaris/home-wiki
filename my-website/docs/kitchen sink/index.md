@@ -11,7 +11,7 @@
 * due end of 2023
 
 ## Item to purchase
-[<img src="filter.png" width="250"/>](filter.png)
+![filter](./filter.png)
 * order in advance from https://getstuff.com.au/products/oliveri-replacement-cartridge-for-fs5010-fr5910?_pos=1&_sid=b98746ac8&_ss=r
 
 ## Steps to change cartridge
