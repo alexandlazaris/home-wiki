@@ -14,11 +14,12 @@
 ## Ignition battery changes
 * changed Jan 2017
 * changed June 2023
+* removed battery entirely as it degraded by October 2023, will light flame manually
 
 ## Knob changes
-* need to purchase new knobs asap
+* purchased new knobs, changed left most knob in November 2023
 
 ## Thermometer
-* need to purchase new thermometer asap 
+* purchased and changed thermometer in November 2023
 
 
